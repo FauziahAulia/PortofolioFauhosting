@@ -34,7 +34,7 @@ export default function Banner() {
               </ul>
 
               <div>
-                <Link to="/about" class="btn btn-default">
+                <Link to="/PortofolioFauhosting/about" class="btn btn-default">
                   About me
                 </Link>
               </div>

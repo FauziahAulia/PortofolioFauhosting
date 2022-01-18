@@ -1,4 +1,5 @@
 import React from "react";
+import profil from "../img/profil.png";
 
 export default function About() {
   return (
@@ -8,7 +9,7 @@ export default function About() {
           <h2 class="section-title padd-15">Tentang saya</h2>
           <div class="row">
             <div class="about-img padd-15" data-aos="fade-right">
-              <img alt="fauziahaulia" src="img/profil.png"></img>
+              <img src={profil} alt="fauziahaulia"></img>
             </div>
             <div class="about-content padd-15" data-aos="fade-left">
               <div class="rounded">

@@ -6,29 +6,29 @@ export default function Header() {
     <div>
       <header class="header" id="header">
         <nav class="nav container padd-15">
-          <Link to="/" class="nav-logo">
+          <Link to="/PortofolioFauhosting/" class="nav-logo">
             <h2>portofolio</h2>
           </Link>
 
           <div class="nav-menu" id="nav-menu">
             <ul class="nav-list">
               <li class="nav-item">
-                <Link to="/" class="nav-link active-link">
+                <Link to="/PortofolioFauhosting/" class="nav-link active-link">
                   Home
                 </Link>
               </li>
               <li class="nav-item">
-                <Link to="/about" class="nav-link">
+                <Link to="/PortofolioFauhosting/about" class="nav-link">
                   About
                 </Link>
               </li>
               <li class="nav-item">
-                <Link to="/project" class="nav-link">
+                <Link to="/PortofolioFauhosting/project" class="nav-link">
                   Project
                 </Link>
               </li>
               <li class="nav-item">
-                <Link to="/contact" class="nav-link">
+                <Link to="/PortofolioFauhosting/contact" class="nav-link">
                   Contact
                 </Link>
               </li>

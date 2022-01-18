@@ -224,13 +224,6 @@ h3 {
 }
 /*========== Home ==========*/
 
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-  .lotties {
-    display: grid;
-    grid-template-columns: auto;
-  }
-}
-
 .home {
   display: flex;
   justify-content: center;
@@ -502,7 +495,7 @@ h3 {
   display: none;
 }
 .customize-theme .card {
-  background: var(--color-white);
+  background: var(--color-dark);
   padding: 3rem;
   border-radius: var(--border-radius);
   width: 40%;

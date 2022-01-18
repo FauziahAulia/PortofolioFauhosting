@@ -223,10 +223,7 @@ h3 {
   box-shadow: 0 1px 4px rgba(165, 125, 125, 0.02);
 }
 /*========== Home ==========*/
-.lotties {
-  display: grid;
-  grid-template-columns: auto auto;
-}
+
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
   .lotties {
     display: grid;
@@ -262,7 +259,7 @@ h3 {
 }
 .scroll-down {
   position: absolute;
-  bottom: -160px;
+  bottom: -110px;
   left: 0;
   width: 100%;
 }

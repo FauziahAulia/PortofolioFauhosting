@@ -8,7 +8,7 @@ export default function Banner() {
       <main class="main-content">
         <section class="home" id="home">
           <div class="container">
-            <div class="intro">
+            <div class="intro" data-aos="zoom-in">
               <img src={first} alt="fauziah" />
               <h1>Hai , I'm Fauziah Aulia</h1>
               <span>

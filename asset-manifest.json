@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/PortofolioFauhosting/static/js/main.4ec6deee.js",
+    "main.js": "/PortofolioFauhosting/static/js/main.797f949a.js",
     "static/media/first.gif": "/PortofolioFauhosting/static/media/first.9c30a9d8618674a72c9d.gif",
     "static/media/profil.png": "/PortofolioFauhosting/static/media/profil.54aeb1c532e4390016f3.png",
     "index.html": "/PortofolioFauhosting/index.html",
-    "main.4ec6deee.js.map": "/PortofolioFauhosting/static/js/main.4ec6deee.js.map"
+    "main.797f949a.js.map": "/PortofolioFauhosting/static/js/main.797f949a.js.map"
   },
   "entrypoints": [
-    "static/js/main.4ec6deee.js"
+    "static/js/main.797f949a.js"
   ]
 }
